@@ -1,3 +1,8 @@
-= Custom Tags
+= Sectionalize Extension.
 
-Description goes here
+A set of Radius tags that allow for sites to be split up into different sections. See the "available tags" documentation in the pages admin interface for more information. Search for "in_section".
+
+Dan Collis-Puro
+dan@endpoint.com
+
+Licensed under the same terms as Radiant itself.
